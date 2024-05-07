@@ -1,4 +1,5 @@
 # 💫 About Me:
+An IT Student
 A Budding Software Engineer
 
 
